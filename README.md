@@ -107,5 +107,3 @@ Open the .pbix file inside dashboard/ using Power BI Desktop.
 
 Himanshu Chauhan  
 Aspiring Data Analyst | SQL | Python | Power BI  
-
-EOF
