@@ -98,8 +98,9 @@ python python/sql_analysis.py
 ### Open Notebook
 jupyter notebook
 
-### Open Dashboard
-Open the .pbix file inside dashboard/ using Power BI Desktop.
+## 📊 Power BI Dashboard Preview
+
+![Dashboard Preview](dashboard/dashboard_preview.jpg)
 
 ---
 
